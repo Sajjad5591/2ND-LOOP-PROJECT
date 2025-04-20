@@ -1,0 +1,14 @@
+C:\Users\Sajjad irfan\Desktop\VISUAL studio projects\2ND LOOP PROJECT\2ND LOOP PROJECT\bin\Debug\net8.0\2ND LOOP PROJECT.exe
+C:\Users\Sajjad irfan\Desktop\VISUAL studio projects\2ND LOOP PROJECT\2ND LOOP PROJECT\bin\Debug\net8.0\2ND LOOP PROJECT.deps.json
+C:\Users\Sajjad irfan\Desktop\VISUAL studio projects\2ND LOOP PROJECT\2ND LOOP PROJECT\bin\Debug\net8.0\2ND LOOP PROJECT.runtimeconfig.json
+C:\Users\Sajjad irfan\Desktop\VISUAL studio projects\2ND LOOP PROJECT\2ND LOOP PROJECT\bin\Debug\net8.0\2ND LOOP PROJECT.dll
+C:\Users\Sajjad irfan\Desktop\VISUAL studio projects\2ND LOOP PROJECT\2ND LOOP PROJECT\bin\Debug\net8.0\2ND LOOP PROJECT.pdb
+C:\Users\Sajjad irfan\Desktop\VISUAL studio projects\2ND LOOP PROJECT\2ND LOOP PROJECT\obj\Debug\net8.0\2ND LOOP PROJECT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sajjad irfan\Desktop\VISUAL studio projects\2ND LOOP PROJECT\2ND LOOP PROJECT\obj\Debug\net8.0\2ND LOOP PROJECT.AssemblyInfoInputs.cache
+C:\Users\Sajjad irfan\Desktop\VISUAL studio projects\2ND LOOP PROJECT\2ND LOOP PROJECT\obj\Debug\net8.0\2ND LOOP PROJECT.AssemblyInfo.cs
+C:\Users\Sajjad irfan\Desktop\VISUAL studio projects\2ND LOOP PROJECT\2ND LOOP PROJECT\obj\Debug\net8.0\2ND LOOP PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\Sajjad irfan\Desktop\VISUAL studio projects\2ND LOOP PROJECT\2ND LOOP PROJECT\obj\Debug\net8.0\2ND LOOP PROJECT.dll
+C:\Users\Sajjad irfan\Desktop\VISUAL studio projects\2ND LOOP PROJECT\2ND LOOP PROJECT\obj\Debug\net8.0\refint\2ND LOOP PROJECT.dll
+C:\Users\Sajjad irfan\Desktop\VISUAL studio projects\2ND LOOP PROJECT\2ND LOOP PROJECT\obj\Debug\net8.0\2ND LOOP PROJECT.pdb
+C:\Users\Sajjad irfan\Desktop\VISUAL studio projects\2ND LOOP PROJECT\2ND LOOP PROJECT\obj\Debug\net8.0\2ND LOOP PROJECT.genruntimeconfig.cache
+C:\Users\Sajjad irfan\Desktop\VISUAL studio projects\2ND LOOP PROJECT\2ND LOOP PROJECT\obj\Debug\net8.0\ref\2ND LOOP PROJECT.dll
